@@ -1,7 +1,3 @@
-# Project Name
-
-A brief description of your project and what the built output does.
-
 ## Prerequisites
 
 Before building the project, make sure you have the following installed on your Windows machine:
