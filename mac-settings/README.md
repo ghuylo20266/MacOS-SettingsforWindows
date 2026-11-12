@@ -30,7 +30,7 @@ Or download the source code as a ZIP file directly from the repository page and 
 Open Command Prompt (CMD) or PowerShell and move into the project directory:
 
 ```bash
-cd your-repository
+cd (the code directory)
 ```
 
 ### 3. Run the Build Script
